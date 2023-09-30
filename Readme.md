@@ -3,7 +3,7 @@
 ## Web Development Projects built using HTML, CSS and Javascript.
 
 ### If you are a beginner.. start here 🔗 <br>
-This is a repository dedicated to HTML, CSS and JavaScript projects. <br>
-Beginner 🥚 to advanced 🐔 HTML, CSS and JavaScript projects are located here..
+THIS IS REPOSTERY  dedicated to HTML, CSS and JavaScript projects. <br>
+Beginner 🥚 to advanced 🐔 HTML, CSS and JAVASCRIPT  projects are located here..
 
 
